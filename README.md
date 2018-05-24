@@ -1,2 +1,2 @@
 # Magnesio
-Comunidad HomeMakkers o app web Clientes.
+Fronend comunidad HomeMakkers o app web Contratistas.
